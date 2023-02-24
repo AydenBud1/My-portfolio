@@ -1,6 +1,7 @@
 body{
-color: darkred;
+
+background-color:beige ;
 }
-title {
-    color: blue;
+h1 {
+    color: darkgray;
 }
